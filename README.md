@@ -1,2 +1,2 @@
 # EntregaBaseDeDatos3
-Desarrollo de un programa implementando patrones Facade, Value Object, MVC, DAO. Creación de la base de datos (MySQL), pool de conexiones.
+Software developed using Patterns such as: Facade, Value Object, MVD and DAO. DB Creation in MySQL, with connection pool.
